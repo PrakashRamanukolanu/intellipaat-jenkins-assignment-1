@@ -1,1 +1,3 @@
 this is my first sample file
+
+Testing automatic Jenkins pipeline trigger
